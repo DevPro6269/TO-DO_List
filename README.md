@@ -2,6 +2,9 @@
 
 This is a simple To-Do List application built using **Vite**, **React**, and **Tailwind CSS**. It allows you to manage tasks by adding, editing, marking as complete, and deleting tasks.
 
+
+
+
 ## Features
 
 - Add new tasks.
@@ -27,15 +30,17 @@ Before you start, make sure you have the following installed:
 
 ### Getting Started
 
+
+
+
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/DevPro6269/TO-DO_List.git
 
 2.**Navigate to the Project Directory
 After cloning the repository, navigate into the project folder**:
 
-```bash
 bash
 Copy code
 cd todo-list
